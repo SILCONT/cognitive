@@ -1,0 +1,22 @@
+
+
+Initiative 1
+
+Single Test: Single User,User profile creation,One psychological test,One question type (Likert scale),Submit answers
+,Backend score calculation,Persist result,View result summary
+
+
+Initiative 2
+Test History:  Progress Tracking, Multiple test attempts,Result history page,Score trend visualization,Time-stamped results,,,,,,,,,,,,,
+admin panel
+
+
+Initiative 3
+
+Admin test Builder: CRUD tests; questions,Assign scoring rules,Activate/deactivate tests
+
+Intiative 4
+Advanced Interactivity:Timed questions,Test runner
+
+Initiative 5
+Reporting: CSV/PDF export Admin aggregated views Basic filters
